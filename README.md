@@ -1,2 +1,4 @@
 # Hello-World
-my first test for github learning
+
+I hope that it's a great beginning for my coding career.
+Here, from now on, I will update my github blog to share my learing on coding.
