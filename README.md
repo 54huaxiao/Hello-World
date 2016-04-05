@@ -1,2 +1,3 @@
 # Hello-World
-my first test for github learning
+
+Coding is an interesting, fantastic thing. Here, I'm ready to build up my world!
